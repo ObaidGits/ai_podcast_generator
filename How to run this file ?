@@ -1,5 +1,5 @@
 1) Install FFmpeg (ffmpeg-master-latest-win64-gpl-shared.zip) from this link https://github.com/BtbN/FFmpeg-Builds/releases make sure there is a folder bin inside which there is ffmpeg.exe file and save that file to Enviroment Variable
 2) Create Virtual Enviroment - python -m venv venv
 3) Install requirements.txt - pip install -r requirements.txt
-4) Login in to OpenAi and ElevenLabs and get your api Key and paste it into .env file 
+4) Login in to OpenRouter and ElevenLabs and get your api Key and paste it into .env file 
 5) run - python podcast_generator.py
